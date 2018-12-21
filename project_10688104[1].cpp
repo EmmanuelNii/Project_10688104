@@ -207,4 +207,5 @@ int main()
         else if(opt == 3)
             m1.AddCourseToStudent();
     }
+  return 0;
 }
